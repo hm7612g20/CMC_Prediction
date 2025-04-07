@@ -1,4 +1,4 @@
-### Predicting CMCs
+# Predicting CMCs
 
 > Developed as part of BSc Chemistry (University of Southampton) research project.
 
